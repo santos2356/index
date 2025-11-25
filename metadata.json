@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Creative Studio",
+  "description": "A comprehensive React application demonstrating Gemini 2.5 Flash capabilities including Chat, Vision, Image Generation, and Real-time Live Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
